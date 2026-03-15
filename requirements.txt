@@ -1,5 +1,7 @@
 # ChiroAutomationApp Dependencies
-# Add your required packages here
+
+# Web framework
+Flask==2.3.3
 
 # Example dependencies:
 # requests==2.31.0
